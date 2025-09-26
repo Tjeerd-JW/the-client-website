@@ -1,1 +1,41 @@
-/* CSS */
+* {
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: #0E1B22;
+    display: grid;
+    grid-template-columns: 1fr min-content min-content min-content min-content;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+
+body {
+    background-color: #1B3644;
+}
+
+main {
+    width: 70%;
+    margin: 0 auto 0 auto;
+}
+
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+}
+
+section h2 {
+    grid-column: 1 / -1;
+}
+
+section img {
+    width: 100%;
+}
