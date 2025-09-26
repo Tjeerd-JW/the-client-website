@@ -4,6 +4,9 @@ Ontwerp en maak een website voor een opdrachtgever en bespreek het resultaat tij
 
 De instructie van deze leertaak staan in de [INSTRUCTIONS](https://github.com/fdnd-task/the-client-website/blob/main/docs/INSTRUCTIONS.md)
 
+## Figma design
+
+[design](https://www.figma.com/design/DDJtsZwW761j0cv7lif12H/Untitled?node-id=0-1&p=f&t=RmsHHloxHIy2Arox-0)
 
 
 ## Inhoudsopgave Readme
